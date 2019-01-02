@@ -36,7 +36,12 @@ npm  install
 ```bash
 wepy build --watch
 ```
-
+选择模块报错了，不知道怎么改了
+wepy init wepyjs/wepy-weui-demo weui
+cd weui 
+npm install 
+wepy build --watch  
+显示缺少less,不知道哪里问题
 ### WePY项目的目录结构
 
 ```
